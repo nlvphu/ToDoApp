@@ -1,0 +1,17 @@
+h1 {
+    color: aqua;
+    background-color: red;
+}
+
+body{
+    width: 700;
+}
+
+.task-list{
+    background: yellow;
+}
+
+.task{
+    background-color: blue;
+}
+
